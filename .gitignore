@@ -7,6 +7,15 @@
 *.userosscache
 *.sln.docstates
 
+Quade'sAdvisingApp.zip
+AdvisingApplication.vcxproj
+AdvisingApplication.vcxproj.filters
+AdvisingDatabase.cpp
+Database.h
+DatabaseAbstraction.cpp
+DatabaseAbstraction.h
+
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
