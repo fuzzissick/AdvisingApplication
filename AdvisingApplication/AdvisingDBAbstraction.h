@@ -14,7 +14,7 @@ class AdvisingDBAbstraction : DBAbstraction
 		void insertPlan(string planName, int year, string semester, int studentID, int advisorID, vector<int> coursesInPlan);
 		void insertCourseTaken(string semester, int year, int CourseID, int studentID);
 
-		void populateDatabase();
+		void populateDatabase();//yeet
 
 		void printAdvisors();
 		void printCourses();
